@@ -34,4 +34,4 @@ The Password Generator is a web application that allows users to generate secure
 If you have any questions, suggestions, or feedback regarding the Password Generator, please feel free to contact me:
 
 - Email: nievesvic86@gmail.com
-- GitHub: PC-Vic https://github.com/YourGitHubUsername 
+- GitHub: PC-Vic https://github.com/PC-Vic/Password-Gen

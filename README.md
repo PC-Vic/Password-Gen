@@ -1,13 +1,15 @@
-# Password-Gen
+# Password Gen
 
 A simple password generator built with JavaScript.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#usage)
-- [Contact](#contact)
+- [Password Gen](#password-gen)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Usage](#usage)
+  - [Contact](#contact)
 
 ## Introduction
 
@@ -28,6 +30,11 @@ The Password Generator is a web application that allows users to generate secure
 3. Click the "Generate Password" button to generate a password.
 4. The generated password will be displayed on the screen.
 5. Copy the password and use it as needed.
+
+![Alt text](assets/Screenshot 2023-08-30 083139.png)
+
+Link to deployed site:
+https://pc-vic.github.io/Password-Gen/
 
 ## Contact
 
